@@ -16,6 +16,7 @@
         <TextBlock HorizontalAlignment="Left" Margin="95,159,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="216"/>
         <Label Content="Password" HorizontalAlignment="Left" Margin="95,112,0,0" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="95,76,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="216"/>
-        <Button x:Name="btnLogin" Width="100" Height="30" Margin="95,201,298.6,19.4" Background="Aquamarine">Mybtn</Button>
+        <Button x:Name="btnLogin" Width="100" Height="30" Margin="98,199,295.6,21.4" Background="Aquamarine">Login</Button>
+        <Button x:Name="btnLogin2" xml:space="preserve" Height="30" Margin="245,199,73.6,21.4" Background="Aquamarine">button    with   spaces</Button>
     </Grid>
 </Window>

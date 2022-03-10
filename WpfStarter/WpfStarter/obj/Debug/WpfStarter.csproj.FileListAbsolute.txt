@@ -13,3 +13,10 @@ C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter.
 C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter.csproj.CoreCompileInputs.cache
 C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter.exe
 C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter.pdb
+C:\Users\Валик\Desktop\IntroWPF\WPFgit\WpfStarter\WpfStarter\obj\Debug\WpfStarter.csproj.AssemblyReference.cache
+C:\Users\Валик\Desktop\IntroWPF\WPFgit\WpfStarter\WpfStarter\obj\Debug\MainWindow.g.cs
+C:\Users\Валик\Desktop\IntroWPF\WPFgit\WpfStarter\WpfStarter\obj\Debug\App.g.cs
+C:\Users\Валик\Desktop\IntroWPF\WPFgit\WpfStarter\WpfStarter\obj\Debug\WpfStarter_MarkupCompile.cache
+C:\Users\Валик\Desktop\IntroWPF\WPFgit\WpfStarter\WpfStarter\obj\Debug\WpfStarter_MarkupCompile.lref
+C:\Users\Валик\Desktop\IntroWPF\WPFgit\WpfStarter\WpfStarter\obj\Debug\WpfStarter.exe
+C:\Users\Валик\Desktop\IntroWPF\WPFgit\WpfStarter\WpfStarter\obj\Debug\WpfStarter.pdb
