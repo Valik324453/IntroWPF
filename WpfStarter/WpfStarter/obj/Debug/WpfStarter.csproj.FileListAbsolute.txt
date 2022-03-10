@@ -1,0 +1,15 @@
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\bin\Debug\WpfStarter.exe.config
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\bin\Debug\WpfStarter.exe
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\bin\Debug\WpfStarter.pdb
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter.csproj.AssemblyReference.cache
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\MainWindow.g.cs
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\App.g.cs
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter_MarkupCompile.cache
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter_MarkupCompile.lref
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\MainWindow.baml
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter.g.resources
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter.Properties.Resources.resources
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter.csproj.GenerateResource.cache
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter.csproj.CoreCompileInputs.cache
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter.exe
+C:\Users\Валик\Desktop\IntroWPF\WpfStarter\WpfStarter\obj\Debug\WpfStarter.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfStarter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfStarter"
+        mc:Ignorable="d"
+        
+        xmlns:col="clr-namespace:System.Collections;assembly=mscorlib" 
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        
+        Title="Main Window Start" Height="280" Width="500">
+    <Grid x:Name="MyGrid">
+        <Label Content="User Name" HorizontalAlignment="Left" Margin="95,37,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="95,9,0,0" TextWrapping="Wrap" Text="Login Form" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="95,159,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="216"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="95,112,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="95,76,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="216"/>
+        <Button x:Name="btnLogin" Width="100" Height="30" Margin="95,201,298.6,19.4" Background="Aquamarine">Mybtn</Button>
+    </Grid>
+</Window>
